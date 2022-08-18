@@ -1,15 +1,15 @@
 .pink-background {
-    background-color: lightpink;
+    background-color: rgb(244, 194, 194);
     font-style: 'Verdana', 'DejaVu Sans', 'sans-serif';
 }
 
 #one {
-    color: blue;
+    color: #0000FF;
     font-size: 36px;
 }
 
 #two {
-    background-color: lightgreen;
+    background-color: hsl(121, 68%, 74%);
     font-size: 24px;
     font-weight: bold;
 }
